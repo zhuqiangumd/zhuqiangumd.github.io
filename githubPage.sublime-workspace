@@ -1,0 +1,470 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"row",
+				"row"
+			],
+			[
+				"buffer",
+				"buffer_len_sig"
+			],
+			[
+				"Legnth",
+				"LENGTH_SPECTROGRAM"
+			],
+			[
+				"lengh",
+				"LENGTH_SPECTROGRAM"
+			],
+			[
+				"bufe",
+				"buffer_len_sig"
+			],
+			[
+				"For",
+				"ForwardIt"
+			],
+			[
+				"multiplier",
+				"multiplier_nfft"
+			],
+			[
+				"H",
+				"HZ2BPM"
+			],
+			[
+				"DEFAULT_",
+				"DEFAULT_NFFT"
+			],
+			[
+				"DEFAULT_AMTC",
+				"DEFAULT_AMTC_DELAY"
+			],
+			[
+				"Publica",
+				"PublicationSubItem{arg1}{arg2}\tcv_QZ.tex"
+			],
+			[
+				"resumeitem",
+				"resumeItemListEnd\tcv_QZ.tex"
+			],
+			[
+				"reitem",
+				"resumeItemListStart\tcv_QZ.tex"
+			],
+			[
+				"float",
+				"float_info"
+			],
+			[
+				"Person",
+				"Person_rPPG_Realtime"
+			],
+			[
+				"frame",
+				"frame"
+			],
+			[
+				"Tra",
+				"TrackerType"
+			],
+			[
+				"CSRT",
+				"CSRT"
+			],
+			[
+				"tracker",
+				"tracker_type"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 8114,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"view pa",
+				"View Package File"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				" package control",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Add Channel"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io"
+	],
+	"file_history":
+	[
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/rPPG_Python/hr_from_video/rPPG_main.py",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/work_01_rPPG/rPPG_CPP/Test_to_delete/test_rPPG/test_rPPG/operation_utils.cpp",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/work_01_rPPG/rPPG_CPP/rPPG_cppVersion/rPPG_cppVersion/rPPG_utils.cpp",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/work_01_rPPG/rPPG_CPP/CPP_conversion_tips_CWW/C++ conversion tips/src_cpp/AnswerSheetParser/cwmath.cpp",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Work_04/report/Paper/JBHI_2019/PPG2ECGByDCT_JBHI/PPG2ECG_BHI2019.tex",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/rPPG_Python/hr_from_video/HR_utils.py",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/CV/CV_FengZhang/latex-cv.tex",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/CV/CV_master_v2/cv_QZ.tex",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/work_02_AMTC/AMTC_TIFS/AMTC.tex",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Work_04/report/Paper/JBHI_2019/PPG2ECGByDCT_JBHI/PPG2ECG_BHI2019.bbl",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Thesis/HRV_rPPG/TCSVT_2019/TCSVT_2019/RobustFitnessRPPG.tex",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Thesis/Thesis_paper/Phd_Thesis/Thesis_bib.bib",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Thesis/Thesis_paper/Chapter4.tex",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Learning/Python /jiuzhang_test.py",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/work_01_rPPG/paper/ICIP2017_Journal_rPPG/HR_ICIP_2017.tex",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Work_04/report/Paper/JBHI_2019/PPG2ECGByDCT_JBHI/PPG2ECG.bib",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/hr_from_video/HR_utils.py",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/hr_from_video/rPPG_main_cont.py",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Work_04/report/Paper/JBHI_2019/PPG2ECGByDCT_JBHI/PPG2ECG_BHI2019.aux",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/work_02_AMTC/AMTC_TIFS/AMTC.bbl",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Thesis/Thesis_paper/Phd_Thesis/Dedication.tex",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Thesis/Thesis_paper/Phd_Thesis/Copyright.tex",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Thesis/Thesis_paper/Phd_Thesis/mainthesis.tex",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Thesis/Thesis_paper/Phd_Thesis/Chapter1_Intro.tex",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Thesis/Thesis_paper/Phd_Thesis/img/PlotOfSpectrum/Spectrum_Hb02_Hb.txt",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/hr_from_video/Server_Video_Processing.py",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/hr_from_video/rPPG_main.py",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Thesis/Thesis_paper/Phd_Thesis/Titlepage.tex",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Thesis/Thesis_paper/Phd_Thesis/Acknowledgements.tex",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Thesis/Thesis_paper/mainthesis.tex",
+		"/Users/chenqingdong/Library/Application Support/Sublime Text 3/Packages/User/LaTeXing.sublime-settings",
+		"/Users/chenqingdong/Library/Application Support/Sublime Text 3/Packages/LaTeXing/LaTeXing.sublime-settings",
+		"/Users/chenqingdong/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/chenqingdong/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Thesis/HRV_rPPG/TCSVT_2019/RobustFitnessPRandPRVMeasurementfromFaceVideo/RobustFitnessRPPG.tex",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/work_03/Code/rPPG_python_shared/HR_utils_new.py",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/work_03/Code/rPPG_python_shared/HR_offline_Deep_v03.py",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/work_03/Code/FItness_rPPG_videoProc_062019.py",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/work_03/Code/HR_offline_Deep_v01.py",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/work_03/Code/HR_RealTime_v00.py",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/work_03/Code/face_doc_03_QZ_03.txt",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/Resources/hrVideo/MAST_FITNESS/face_doc_QZ_running_7s_01.txt",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/Resources/hrVideo/MAST_FITNESS/face_doc_QZ_elliptical_7s_05.txt",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/Resources/hrVideo/MAST_FITNESS/face_doc_QZ_elliptical_7s_04.txt",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/Resources/hrVideo/MAST_FITNESS/face_doc_QZ_elliptical_7s_02.txt",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/work_03/Code/rPPG_python_shared/readme.txt",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/work_03/Code/HR_offline_Deep_v03.py",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/work_03/Code/face_docQZ_running_7s_01.txt",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/Resources/hrVideo/MAST_FITNESS/face_doc_QZ_elliptical_7s_01.txt",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/Resources/hrVideo/MAST_FITNESS/face_doc_QZ_running_7s_05.txt",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/Resources/hrVideo/MAST_FITNESS/face_doc_QZ_elliptical_7s_03.txt",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/Resources/hrVideo/MAST_FITNESS/face_doc_CW_running_7s_07.txt",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/Resources/hrVideo/MAST_FITNESS/face_doc_CW_running_7s_08.txt",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/Resources/hrVideo/MAST_FITNESS/face_doc_CW_running_7s_06.txt",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/Resources/hrVideo/MAST_FITNESS/face_doc_CW_running_7s_04.txt",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/Resources/hrVideo/MAST_FITNESS/face_doc_CW_running_7s_05.txt",
+		"/Users/chenqingdong/Library/Application Support/Sublime Text 3/Packages/User/LaTeX.sublime-build",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Learning/C++/Test.cpp",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Thesis/LatexThesisFiles_2019_0/Foreword.tex",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Coursera/Algorithm/Cluster_02.py",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Coursera/Algorithm/untitled.py",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Coursera/Algorithm/Greedy_01.py",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Work_04/report/Paper/BHI_2019/IEEE_BHI2019_arXiv/PPG2ECG_BHI2019.tex",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Coursera/Algorithm/Modified_2sum_02.py",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Coursera/Algorithm/Modified_2_sum.py",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Coursera/Algorithm/MedianMaintenance.py",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Coursera/Algorithm/Dijkstra_ShortestPath.py",
+		"/Users/chenqingdong/Desktop/AddMaterial_Junzhewang.txt",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/work_03/Code/Test_code_forIMG1115_only.m",
+		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/work_03/Code/video_bbox_bytracking.py",
+		"/Users/chenqingdong/GoogleDrive_Q/Phd/work_03/Code/video_bbox_bytracking.py",
+		"/Users/chenqingdong/GoogleDrive_Q/Phd/work_03/Code/HR_utils_new.py",
+		"/Users/chenqingdong/GoogleDrive_Q/Phd/work_03/Code/video_bbox_tagging.py",
+		"/Users/chenqingdong/GoogleDrive_Q/Phd/work_03/Code/HR_offline_Deep_v02.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								742,
+								742
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 240.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "Packages/LaTeXing/LaTeX.sublime-build",
+	"project": "githubPage.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
