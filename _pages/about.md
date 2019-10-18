@@ -1,12 +1,62 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a Ph.D. candidate in electrical & computer engineering, advised by [Prof. Min Wu]{https://user.eng.umd.edu/~minwu/} from University of Maryland, College Park. I received a B.S. degree in electrical engineering -- automation at [Zhejiang University]{http://www.zju.edu.cn/english/} in Hangzhou, China in 2010 and a M.S. degree in electrical engineering -- automation at [Shanghai Jiaotong University]{} in Shanghai, China in 2014.
+
+Research Interests
+------
+Digital image/video processing, Biomedical Signal Processing, Information Security and Forensics, Machine Learning.
+
+Publication
+------
+**Journals**
+1. A. Hajj-Ahmad, C.-W. Wong, . Gambino, Q. Zhu, M. Yu, and M. Wu, "[Factors Affecting ENF Capture in Audio]{}",
+IEEE Transactions on Information Forensics and Security (TIFS), Vol. 14, No. 2, pp. 277-288, Feb. 2019.
+1. S. Han, Q. Zhu, J. Li, and Y. Zhou, \Generalized Rough Set-based Information Filling Technique for Failure Analysis
+of Thruster Experimental Data", Chinese Journal of Aeronautics, Vol. 26, No. 5, pp. 1182-1194, Oct. 2017.
+1. J. Wu, Z. Mou, Q. Zhu, J. Li, and Y. Zhou, \Decoupled Target Tracking with Bearing-only Measurements", Optical
+Engineering, Vol. 51, No. 12, pp. 126401, Dec. 2012.
+1. Q. Zhu, X. Tian, C.-W. Wong and M. Wu, \Learning Your Heart Actions: ECG Waveform Reconstruction From
+PPG", submitted to IEEE Journal of Biomedical and Health Informatics (JBHI).
+1. Q. Zhu, M. Chen, C.-W. Wong and M. Wu, \Adaptive Multi-Trace Carving for Robust Frequency Tracking in
+Forensic Applications", under preparation for journal submission.
+1. Q. Zhu, C.-W. Wong and M. Wu, \Robust Fitness Pulse Rate and Pulse Rate Varibility Measurement From Face
+Videos", under preparation for journal submission.
+1. M. Chen, Q. Zhu, M. Wu and Q. Wang, \Amplitude and Frequency Modulation for Vital Signs Extraction From
+Photoplethysmography Signal", under preparation for journal submission.
+
+
+**Conferences**
+1. Q. Zhu, X. Tian, C.-W. Wong, and M. Wu, "ECG Reconstruction via PPG: A Pilot Study", IEEE International Conf.
+on Bio. and Health Informatics, 2019. [43/394=10% acceptance rate for oral presentation of regular paper]
+1. M. Chen, Q. Zhu, H. Zhang, M. Wu, and Q. Wang, "Respiratory Rate Estimation From Face Videos", IEEE
+International Conf. on Bio. and Health Informatics, 2019. [123/394=31% acceptance rate for regular paper]
+1. Q. Zhu, M. Chen, C.-W. Wong, and M. Wu, "Adaptive Multi-Trace Carving Based on Dynamic Programming",
+Asilomar Conf. on Signals, Systems, and Computers, 2018.
+1. Q. Zhu, C.-W. Wong, C.-H. Fu and M. Wu, "Fitness Heart Rate Measurement Using Face Videos", IEEE
+International Conf. on Image Proc. (ICIP), 2017.
+1. Y. Wang, S. Zhao, J. Li, J. Kuang, and Q. Zhu, \Recurrent Neural Network for Spectral Mapping in Speech
+Bandwidth Extension", IEEE Global Conf. on Sig. and Info. Proc. (GlobalSIP), 2016.
+1. Q. Zhu and J. Li, \Joint Estimation of State and Parameter for Tracking System Using EM{UKF", IASTED
+International Sympo. on Power and Energy, 2013.
+1. Z. Zhang, J. Li, S. Han, and Q. Zhu, \Muti{Target Tracking Using the Sign of Innovations in Wireless Sensor
+Networks", 2012 Chinese Control and Decision Conf. (CCDC), 2012.
+1. X. Tian, Q. Zhu, Y. Li, and M. Wu, \Cross-domain Joint Dictionary Learning fro ECG Reconstruction From PPG",
+submitted for conference publication.
+
+Projects
+------
+
+
+Some Useful Links
+------
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
