@@ -19,11 +19,11 @@ Projects at UMD
 
 [Remote Vital Signs Monitoring]()            |  [ECG Reconstruction From PPG]()
 :-------------------------:|:-------------------------:
-![haha](https://zhuqiangumd.github.io/images/rPPG_scene.png|width=100)  |  ![](https://zhuqiangumd.github.io/images/CircularSys.png|width=100)
+<img src="https://zhuqiangumd.github.io/images/rPPG_scene.png" width="100">  | <img src="https://zhuqiangumd.github.io/images/CircularSys.png" width="100">  
 
 [Robust Frequency Tracking]()             |  [ENF estimation From Multimedia Data]()
 :-------------------------:|:-------------------------:
-![](https://zhuqiangumd.github.io/images/AMTC_example.png|width=100)  |  ![](https://zhuqiangumd.github.io/images/ENF_KimExp.png|width=100)
+<img src="https://zhuqiangumd.github.io/images/AMTC_example.png" width="100">   |  <img src="https://zhuqiangumd.github.io/images/ENF_KimExp.png" width="100">
 
 **Remote Vital Signs Monitoring Using Regular RGB Camera**
 
