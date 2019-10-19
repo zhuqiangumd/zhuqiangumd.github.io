@@ -250,9 +250,7 @@ defaults:
       path: ""
       type: research
     values:
-      layout: talk
-      author_profile: true
-      share: true
+      layout: single
       comments: true
 
 # Sass/SCSS
