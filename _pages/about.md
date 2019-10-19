@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in electrical & computer engineering, advised by [Prof. Min Wu](https://user.eng.umd.edu/~minwu/) from University of Maryland, College Park. I received a B.S. degree in electrical engineering -- automation at [Zhejiang University](http://www.zju.edu.cn/english/) in Hangzhou, China in 2010 and a M.S. degree in electrical engineering -- automation at [Shanghai Jiaotong University]() in Shanghai, China in 2014.
+Welcome to my page! I am a Ph.D. candidate in electrical & computer engineering, advised by [Prof. Min Wu](https://user.eng.umd.edu/~minwu/) from University of Maryland, College Park. I received a B.S. degree in electrical engineering -- automation at [Zhejiang University](http://www.zju.edu.cn/english/) in Hangzhou, China in 2010 and a M.S. degree in electrical engineering -- automation at [Shanghai Jiaotong University]() in Shanghai, China in 2014.
 
 Research Interests
 ------
@@ -19,11 +19,11 @@ Projects at UMD
 
 [Remote Vital Signs Monitoring]()            |  [ECG Reconstruction From PPG]()
 :-------------------------:|:-------------------------:
-<img src="https://zhuqiangumd.github.io/images/rPPG_scene.png" width="100">  | <img src="https://zhuqiangumd.github.io/images/CircularSys.png" width="100">  
+<img src="https://zhuqiangumd.github.io/images/rPPG_scene.png" width="500">  | <img src="https://zhuqiangumd.github.io/images/CircularSys.png" width="500">  
 
 [Robust Frequency Tracking]()             |  [ENF estimation From Multimedia Data]()
 :-------------------------:|:-------------------------:
-<img src="https://zhuqiangumd.github.io/images/AMTC_example.png" width="100">   |  <img src="https://zhuqiangumd.github.io/images/ENF_KimExp.png" width="100">
+<img src="https://zhuqiangumd.github.io/images/AMTC_example.png" width="500">   |  <img src="https://zhuqiangumd.github.io/images/ENF_KimExp.png" width="500">
 
 **Remote Vital Signs Monitoring Using Regular RGB Camera**
 
