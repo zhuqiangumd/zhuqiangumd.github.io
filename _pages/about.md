@@ -9,7 +9,7 @@ redirect_from:
 ---
  > Stay hungry. Stay foolish.
 
-Welcome to my page! I am a Ph.D. candidate in electrical & computer engineering, advised by [Prof. Min Wu](https://user.eng.umd.edu/~minwu/) from University of Maryland, College Park. I received a B.S. degree in electrical engineering -- automation at [Zhejiang University](http://www.zju.edu.cn/english/) in Hangzhou, China in 2010 and a M.S. degree in electrical engineering -- automation, advised by [Prof. Jianxun Li]() at [Shanghai Jiaotong University]() in Shanghai, China in 2014.
+Welcome to my page! I am a Ph.D. candidate in electrical & computer engineering, advised by [Prof. Min Wu](https://user.eng.umd.edu/~minwu/) from University of Maryland, College Park. I received a B.S. degree in electrical engineering -- automation at [Zhejiang University](http://www.zju.edu.cn/english/) in Hangzhou, China in 2010 and a M.S. degree in electrical engineering -- automation, advised by [Prof. Jianxun Li]() at [Shanghai Jiaotong University]() in Shanghai, China in 2014. You may find my CV [here](http://zhuqiangumd.github.io/files/cv_QZ.pdf).
 
 Research Interests
 ------
@@ -26,13 +26,6 @@ Projects at UMD
 :-------------------------:|:-------------------------:
 <img src="https://zhuqiangumd.github.io/images/AMTC_example.png" width="500">   |  <img src="https://zhuqiangumd.github.io/images/ENF_KimExp.png" width="500">
 
-**Remote Vital Signs Monitoring Using Regular RGB Camera**
-
-**Electrocardiogram (ECG) Reconstruction From Photoplethysmogram (PPG)**
-
-**Robust Frequency Tracking Weak Signal Traces Under Severe Noise and Distortions**
-
-**Electrical Network Frequency (ENF) Estimation From Multimedia Data**
 
 
 Publication
@@ -53,10 +46,10 @@ on Bio. and Health Informatics, 2019. [43/394=10% acceptance rate for oral prese
 1. M. Chen, Q. Zhu, H. Zhang, M. Wu, and Q. Wang, "Respiratory Rate Estimation From Face Videos", IEEE
 International Conf. on Bio. and Health Informatics, 2019. [123/394=31% acceptance rate for regular paper]
 1. Q. Zhu, M. Chen, C.-W. Wong, and M. Wu, "Adaptive Multi-Trace Carving Based on Dynamic Programming",
-Asilomar Conf. on Signals, Systems, and Computers, 2018.
+Asilomar Conf. on Signals, Systems, and Computers, 2018. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8645216)][[Poster](https://sigport.org/documents/adaptive-multi-trace-carving-based-dynamic-programming)]
 1. Q. Zhu, C.-W. Wong, C.-H. Fu and M. Wu, "Fitness Heart Rate Measurement Using Face Videos", IEEE
 International Conf. on Image Proc. (ICIP), 2017.
-1. Y. Wang, S. Zhao, J. Li, J. Kuang, and Q. Zhu, \Recurrent Neural Network for Spectral Mapping in Speech
+1. Y. Wang, S. Zhao, J. Li, J. Kuang, and Q. Zhu, "Recurrent Neural Network for Spectral Mapping in Speech
 Bandwidth Extension", IEEE Global Conf. on Sig. and Info. Proc. (GlobalSIP), 2016.
 1. Q. Zhu and J. Li, \Joint Estimation of State and Parameter for Tracking System Using EM{UKF", IASTED
 International Sympo. on Power and Energy, 2013.
