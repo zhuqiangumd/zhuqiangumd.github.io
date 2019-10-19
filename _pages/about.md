@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+ > Stay hungry, stay foolish.
+ 
 Welcome to my page! I am a Ph.D. candidate in electrical & computer engineering, advised by [Prof. Min Wu](https://user.eng.umd.edu/~minwu/) from University of Maryland, College Park. I received a B.S. degree in electrical engineering -- automation at [Zhejiang University](http://www.zju.edu.cn/english/) in Hangzhou, China in 2010 and a M.S. degree in electrical engineering -- automation at [Shanghai Jiaotong University]() in Shanghai, China in 2014.
 
 Research Interests
