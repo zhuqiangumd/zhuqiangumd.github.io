@@ -251,6 +251,7 @@ defaults:
       type: research
     values:
       layout: single
+      author_profile: true
       comments: true
 
 # Sass/SCSS
