@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Qiang Zhu | 朱强"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,7 +19,7 @@ Projects at UMD
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://zhuqiangumd.github.io/images/rPPG_scene.png)  |  ![](https://zhuqiangumd.github.io/ppg2ecg_sysdiag.png)
+![](rPPG_scene.png)  |  ![](https://zhuqiangumd.github.io/ppg2ecg_sysdiag.png)
 
 **Remote Vital Signs Monitoring Using Regular RGB Camera**
 
