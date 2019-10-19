@@ -31,7 +31,7 @@ Projects at UMD
 Publication
 ------
 **Journals**
-1. A. Hajj-Ahmad, C.-W. Wong, . Gambino, Q. Zhu, M. Yu, and M. Wu, "[Factors Affecting ENF Capture in Audio]()", IEEE Transactions on Information Forensics and Security (TIFS), Vol. 14, No. 2, pp. 277-288, Feb. 2019.
+1. A. Hajj-Ahmad, C.-W. Wong, . Gambino, Q. Zhu, M. Yu, and M. Wu, "Factors Affecting ENF Capture in Audio", *IEEE Transactions on Information Forensics and Security (TIFS)*, Vol. 14, No. 2, pp. 277-288, Feb. 2019.
 1. S. Han, Q. Zhu, J. Li, and Y. Zhou, "Generalized Rough Set-based Information Filling Technique for Failure Analysis of Thruster Experimental Data", Chinese Journal of Aeronautics, Vol. 26, No. 5, pp. 1182-1194, Oct. 2017.
 1. J. Wu, Z. Mou, Q. Zhu, J. Li, and Y. Zhou, "Decoupled Target Tracking with Bearing-only Measurements", Optical Engineering, Vol. 51, No. 12, pp. 126401, Dec. 2012.
 1. Q. Zhu, X. Tian, C.-W. Wong and M. Wu, "Learning Your Heart Actions: ECG Waveform Reconstruction From PPG", submitted to IEEE Journal of Biomedical and Health Informatics (JBHI). 
@@ -72,6 +72,6 @@ Reshaping Functions", provisional patent filing Aug. 2018.
 
 Some Useful Links
 ------
-1. [Media And Security Team (MAST)]()
+1. [Media And Security Team (MAST)](http://www.mast.umd.edu)
 1. A cool company called [Origin Wireless]()
 1. [Dr. Wenjin Wang]()
