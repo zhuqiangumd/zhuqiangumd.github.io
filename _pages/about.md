@@ -17,13 +17,13 @@ Digital image/video processing, Biomedical Signal Processing, Information Securi
 Projects at UMD
 ------
 
-Solarized dark             |  Solarized Ocean
+[Remote Vital Signs Monitoring]()            |  [ECG Reconstruction From PPG]()
 :-------------------------:|:-------------------------:
-![haha](https://zhuqiangumd.github.io/images/rPPG_scene.png)  |  ![](https://zhuqiangumd.github.io/images/ppg2ecg_sysdiag.png)
+![haha](https://zhuqiangumd.github.io/images/rPPG_scene.png)  |  ![](https://zhuqiangumd.github.io/images/CircularSys.png)
 
-Solarized dark             |  Solarized Ocean
+[Robust Frequency Tracking]()             |  [ENF estimation From Multimedia Data]()
 :-------------------------:|:-------------------------:
-![](https://zhuqiangumd.github.io/images/rPPG_scene.png)  |  ![](https://zhuqiangumd.github.io/images/ppg2ecg_sysdiag.png)
+![](https://zhuqiangumd.github.io/images/AMTC_example.png)  |  ![](https://zhuqiangumd.github.io/images/ENF_KimExp.png)
 
 **Remote Vital Signs Monitoring Using Regular RGB Camera**
 
