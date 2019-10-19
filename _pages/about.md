@@ -16,10 +16,17 @@ Digital image/video processing, Biomedical Signal Processing, Information Securi
 
 Projects at UMD
 ------
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://zhuqiangumd.github.io/images/rPPG_scene.png)  |  ![](https://zhuqiangumd.github.io/ppg2ecg_sysdiag.png)
+
 **Remote Vital Signs Monitoring Using Regular RGB Camera**
 
 **Electrocardiogram (ECG) Reconstruction From Photoplethysmogram (PPG)**
+
 **Robust Frequency Tracking Weak Signal Traces Under Severe Noise and Distortions**
+
 **Electrical Network Frequency (ENF) Estimation From Multimedia Data**
 
 
