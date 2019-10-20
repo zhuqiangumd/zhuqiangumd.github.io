@@ -1,6 +1,7 @@
 ---
 title: "Electrocardiogram (ECG) Reconstruction From Photoplethysmogram (PPG)"
 collection: research
+type: ""
 permalink: /research/2018-ECG_recon_from_PPG
 venue: "Electrical & Computer Engineering, University of Maryland, Collge Park"
 date: 2018-01-01

@@ -1,6 +1,7 @@
 ---
 title: "Remote Vital Sign Monitoring Using Regular RGB Camera"
-collection: Research
+collection: research
+type: ""
 permalink: /research/2017-remote_vital_signs
 venue: "Electrical & Computer Engineering, University of Maryland, Collge Park"
 date: 2017-01-01
