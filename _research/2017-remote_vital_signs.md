@@ -7,7 +7,7 @@ date: 2017-01-01
 location: "Collge Park, MD"
 ---
 
-<img style="float: right;" src="http://zhuqiangumd.github.io/images/rPPG_sysdiag.png" width="400">
+<img src="http://zhuqiangumd.github.io/images/rPPG_sysdiag.png" width="400">
 
 Abstract
 ---------
@@ -17,8 +17,8 @@ Demo video
 ---------
 Treadmill           |  Elliptical machine
 :-------------------------:|:-------------------------:
-[![](http://img.youtube.com/vi/9njZ1fBq26g/0.jpg)](http://www.youtube.com/watch?v=9njZ1fBq26g "")  | [![](http://img.youtube.com/vi/HecxAUOnDe0/0.jpg)](http://www.youtube.com/watch?v=HecxAUOnDe0 "")  
+[![](http://img.youtube.com/vi/9njZ1fBq26g/0.jpg)](http://www.youtube.com/watch?v=9njZ1fBq26g)  | [![](http://img.youtube.com/vi/HecxAUOnDe0/0.jpg)](http://www.youtube.com/watch?v=HecxAUOnDe0)  
 
 A Python-based system demo (see below)
 
-[![](http://img.youtube.com/vi/JVhUm3IrrnQ/0.jpg)](http://www.youtube.com/watch?v=JVhUm3IrrnQ "")
+[![](http://img.youtube.com/vi/JVhUm3IrrnQ/0.jpg)](http://www.youtube.com/watch?v=JVhUm3IrrnQ)

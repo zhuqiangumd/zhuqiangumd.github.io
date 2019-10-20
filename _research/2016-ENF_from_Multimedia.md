@@ -7,9 +7,7 @@ date: 2016-01-01
 location: "Collge Park, MD"
 ---
 
-
-
-<img style="float: right;" src="http://zhuqiangumd.github.io/images/rPPG_sysdiag.png" width="400">
+<img src="http://zhuqiangumd.github.io/images/ENF_KimExp.png" width="400">
 
 In this project, we built and tested an ENF estimation prototype for extracting the subtle ENF signals from the multimedia contents.
 
