@@ -7,7 +7,7 @@ date: 2017-01-01
 location: "Collge Park, MD"
 ---
 
-<img src="http://zhuqiangumd.github.io/images/rPPG_sysdiag.png" width="400">
+<img src="http://zhuqiangumd.github.io/images/rPPG_sysdiag.png" width="500">
 
 Abstract
 ---------
