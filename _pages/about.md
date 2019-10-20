@@ -18,11 +18,11 @@ Digital image/video processing, Biomedical Signal Processing, Information Securi
 Projects at UMD
 ------
 
-[Remote Vital Signs Monitoring]()            |  [ECG Reconstruction From PPG]()
+[Remote Vital Signs Monitoring](https://zhuqiangumd.github.io/research/2017-remote_vital_signs)            |  [ECG Reconstruction From PPG](https://zhuqiangumd.github.io/research/2018-ECG_recon_from_PPG)
 :-------------------------:|:-------------------------:
 <img src="https://zhuqiangumd.github.io/images/rPPG_scene.png" width="500">  | <img src="https://zhuqiangumd.github.io/images/CircularSys.png" width="500">  
 
-[Robust Frequency Tracking]()             |  [ENF estimation From Multimedia Data]()
+[Robust Frequency Tracking](https://zhuqiangumd.github.io/research/2018-AMTC)             |  [ENF estimation From Multimedia Data](https://zhuqiangumd.github.io/research/2016-ENF_from_Multimedia)
 :-------------------------:|:-------------------------:
 <img src="https://zhuqiangumd.github.io/images/AMTC_example.png" width="500">   |  <img src="https://zhuqiangumd.github.io/images/ENF_KimExp.png" width="500">
 

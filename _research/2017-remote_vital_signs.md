@@ -15,10 +15,12 @@ Heart rate from videos was first demonstrated feasible in 2008, and since then m
 
 Demo video
 ---------
-Treadmill           |  Elliptical machine
-:-------------------------:|:-------------------------:
-[![](http://img.youtube.com/vi/9njZ1fBq26g/0.jpg)](http://www.youtube.com/watch?v=9njZ1fBq26g)  | [![](http://img.youtube.com/vi/HecxAUOnDe0/0.jpg)](http://www.youtube.com/watch?v=HecxAUOnDe0)  
+Treadmill   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9njZ1fBq26g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>       
 
-A Python-based system demo (see below)
+Elliptical Machine
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HecxAUOnDe0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
-[![](http://img.youtube.com/vi/JVhUm3IrrnQ/0.jpg)](http://www.youtube.com/watch?v=JVhUm3IrrnQ)
+A Python-based system demo for face in-the-wild (in a Saturday's crowded shopping center)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JVhUm3IrrnQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
+
