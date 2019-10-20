@@ -1,7 +1,6 @@
 ---
 title: "Electrical Network Frequency (ENF) Estimation From Multimedia Data"
 collection: research
-type: ""
 permalink: /research/2016-ENF_from_Multimedia
 venue: "Electrical & Computer Engineering, University of Maryland, Collge Park"
 date: 2016-01-01
