@@ -42,8 +42,8 @@ Publication
 
 **Conferences**
 1. **Q. Zhu**, X. Tian, C.-W. Wong, and M. Wu, "ECG Reconstruction via PPG: A Pilot Study", *2019 IEEE-EMBS International Conference
-on Biomedical and Health Informatics*, 2019. [43/394=**11% acceptance rate** for oral presentation of regular paper][[IEEE Xplore](https://ieeexplore.ieee.org/document/8834612)][[arXiv](https://arxiv.org/abs/1904.10481)][[Slides](https://sigport.org/documents/ecg-reconstruction-ppg-pilot-study)]
-1. M. Chen, **Q. Zhu**, H. Zhang, M. Wu, and Q. Wang, "Respiratory Rate Estimation From Face Videos", *2019 IEEE-EMBS International Conference on Biomedical and Health Informatics*, 2019. [123/394=**31% acceptance rate** for regular paper][[IEEE Xplore](https://ieeexplore.ieee.org/document/8834499)][[arXiv](https://arxiv.org/abs/1909.03503)]
+on Biomedical and Health Informatics*, 2019. [**43/394=11% acceptance rate** for oral presentation of regular paper][[IEEE Xplore](https://ieeexplore.ieee.org/document/8834612)][[arXiv](https://arxiv.org/abs/1904.10481)][[Slides](https://sigport.org/documents/ecg-reconstruction-ppg-pilot-study)]
+1. M. Chen, **Q. Zhu**, H. Zhang, M. Wu, and Q. Wang, "Respiratory Rate Estimation From Face Videos", *2019 IEEE-EMBS International Conference on Biomedical and Health Informatics*, 2019. [**123/394=31% acceptance rate** for regular paper][[IEEE Xplore](https://ieeexplore.ieee.org/document/8834499)][[arXiv](https://arxiv.org/abs/1909.03503)]
 1. **Q. Zhu**, M. Chen, C.-W. Wong, and M. Wu, "Adaptive Multi-Trace Carving Based on Dynamic Programming", *Asilomar Conference on Signals, Systems, and Computers*, 2018. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8645216)][[Poster](https://sigport.org/documents/adaptive-multi-trace-carving-based-dynamic-programming)]
 1. **Q. Zhu**, C.-W. Wong, C.-H. Fu and M. Wu, "Fitness Heart Rate Measurement Using Face Videos", *IEEE International Conference on Image Processing (ICIP)*, 2017. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8296632)][[Postprint](https://people.engr.ncsu.edu/cwong9/docs/hr_icip2017.pdf)][[Slides](https://sigport.org/documents/fitness-heart-rate-measurement-using-face-videos)][Demo Videos: [Elliptical Machine](https://www.youtube.com/watch?v=HecxAUOnDe0), [Treadmill](https://www.youtube.com/watch?v=9njZ1fBq26g)]
 1. Y. Wang, S. Zhao, J. Li, J. Kuang, and **Q. Zhu**, "Recurrent Neural Network for Spectral Mapping in Speech
@@ -63,7 +63,7 @@ and Analytics", provisional patent filing Mar. 2019.
 Distortions", provisional patent filing Sept. 2018, formal filing Sept. 2019.
 1. N. Gadgil, G. Su, **Q. Zhu**, and Q. Song, "Reducing Banding Artifacts in HDR Imaging via Adaptive SDR-to-HDR
 Reshaping Functions", provisional patent filing Aug. 2018.
-1. M. Wu, C.-W. Wong, **Q. Zhu**, C.-H. Fu, and J. Su, \Heart Rate Measurement for Fitness Exercises Using Facial Video", provisional patent filing Sept. 2017, formal filing Sept. 2018.
+1. M. Wu, C.-W. Wong, **Q. Zhu**, C.-H. Fu, and J. Su, "Heart Rate Measurement for Fitness Exercises Using Facial Video", provisional patent filing Sept. 2017, formal filing Sept. 2018.
 
 
 

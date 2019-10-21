@@ -12,3 +12,7 @@ location: "Collge Park, MD"
 In this project, we built and tested an ENF estimation prototype for extracting the subtle ENF signals from the multimedia contents.
 
 *The topic description will be available later*.
+
+Publication
+-----------
+1. A. Hajj-Ahmad, C.-W. Wong, . Gambino, **Q. Zhu**, M. Yu, and M. Wu, "Factors Affecting ENF Capture in Audio", *IEEE Transactions on Information Forensics and Security (TIFS)*, Vol. 14, No. 2, pp. 277-288, Feb. 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8360518)]

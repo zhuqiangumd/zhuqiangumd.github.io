@@ -83,14 +83,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_config.yml",
-			"settings":
-			{
-				"buffer_size": 8114,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -233,6 +225,35 @@
 	],
 	"file_history":
 	[
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_posts/2019-10-18-blog-post-1.md",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_research/remote_vital_signs.md",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_research/2018-ECG_recon_from_PPG.md",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_research/2016-ENF_from_Multimedia.md",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_research/2017-remote_vital_signs.md",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_research/2018-AMTC.md",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_pages/about.md",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_data/navigation.yml",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_pages/teaching.html",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_teaching/2015-Fall-245.md",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_config.yml",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_pages/research.html",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_data/authors.yml",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_pages/talks.html",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_pages/cv.md",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_pages/portfolio.html",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_publications/2009-10-01-paper-title-number-1.md",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_teaching/2018-fall-630.md",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_teaching/2015-spring-324.md",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_teaching/2016-spring-322.md",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_teaching/2016-fall-222.md",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_data/ui-text.yml",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_pages/research.md",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_research/2015-Fall-245.md",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_teaching/2018-spring-631.md",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_posts/2012-08-14-blog-post-1.md",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_teaching/2015-spring-324 copy 6.md",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_teaching/2015-spring-teaching-2.md",
+		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/Personal/zhuqiangumd.github.io/_teaching/2014-spring-teaching-1.md",
 		"/Users/chenqingdong/Terp_Drive/Mac_02/Phd/rPPG_Python/hr_from_video/rPPG_main.py",
 		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/work_01_rPPG/rPPG_CPP/Test_to_delete/test_rPPG/test_rPPG/operation_utils.cpp",
 		"/Users/chenqingdong/Terp_Drive/Mac_01/Phd/work_01_rPPG/rPPG_CPP/rPPG_cppVersion/rPPG_cppVersion/rPPG_utils.cpp",
@@ -310,7 +331,7 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -324,6 +345,9 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"teaching",
+			"aca",
+			"images"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -341,39 +365,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_config.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8114,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								742,
-								742
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
