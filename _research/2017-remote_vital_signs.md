@@ -16,16 +16,16 @@ Heart rate from videos was first demonstrated feasible in 2008, and since then m
 Publications
 ---------
 1. M. Chen, **Q. Zhu**, H. Zhang, M. Wu, and Q. Wang, "Respiratory Rate Estimation From Face Videos", *2019 IEEE-EMBS International Conference on Biomedical and Health Informatics*, 2019. [**123/394=31% acceptance rate** for regular paper][[IEEE Xplore](https://ieeexplore.ieee.org/document/8834499)][[arXiv](https://arxiv.org/abs/1909.03503)]
-Demo video
 1. **Q. Zhu**, C.-W. Wong, C.-H. Fu and M. Wu, "Fitness Heart Rate Measurement Using Face Videos", *IEEE International Conference on Image Processing (ICIP)*, 2017. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8296632)][[Postprint](https://people.engr.ncsu.edu/cwong9/docs/hr_icip2017.pdf)][[Slides](https://sigport.org/documents/fitness-heart-rate-measurement-using-face-videos)]
 
+Demo videos
 ---------
-Treadmill   
+Treadmill:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9njZ1fBq26g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>       
 
-Elliptical Machine
+Elliptical Machine:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HecxAUOnDe0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
-A Python-based system demo for face in-the-wild (in a Saturday's crowded shopping center)
+A Python-based system demo for realtime pulse rate estimation (face in-the-wild, in a Saturday's crowded shopping center):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JVhUm3IrrnQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
