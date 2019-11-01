@@ -21,10 +21,10 @@ Publications
 Demo videos
 ---------
 Treadmill:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9njZ1fBq26g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>       
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=7kSvpy-tc2g&list=UUM07oUyKcuUG2vwt4s9xEJA&index=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>       
 
 Elliptical Machine:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HecxAUOnDe0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=WVBD4srQduE&list=UUM07oUyKcuUG2vwt4s9xEJA&index=2" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
 A Python-based system demo for realtime pulse rate estimation (face in-the-wild, in a Saturday's crowded shopping center):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JVhUm3IrrnQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
