@@ -70,4 +70,4 @@ Reshaping Functions", provisional patent filing Aug. 2018.
 Some Useful Links
 ------
 1. [Media And Security Team (MAST)](http://www.mast.umd.edu)
-
+1. [IOS 13 Course Resources List](https://www.appbrewery.co/p/ios-course-resources/)
