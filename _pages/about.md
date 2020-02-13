@@ -72,3 +72,5 @@ Some Useful Links
 1. [Media And Security Team (MAST)](http://www.mast.umd.edu)
 1. [IOS 13 Course Resources List](https://www.appbrewery.co/p/ios-course-resources/)
 1. [colorhunt.io for color theme selection](https://colorhunt.co/)
+1. [app icon/image assets generator](https://appicon.co/)
+1. [canva.com for online canvas](https://canva.com)
