@@ -17,6 +17,7 @@ Publications
 ---------
 1. M. Chen, **Q. Zhu**, H. Zhang, M. Wu, and Q. Wang, "Respiratory Rate Estimation From Face Videos", *2019 IEEE-EMBS International Conference on Biomedical and Health Informatics*, 2019. [**123/394=31% acceptance rate** for regular paper][[IEEE Xplore](https://ieeexplore.ieee.org/document/8834499)][[arXiv](https://arxiv.org/abs/1909.03503)]
 1. **Q. Zhu**, C.-W. Wong, C.-H. Fu and M. Wu, "Fitness Heart Rate Measurement Using Face Videos", *IEEE International Conference on Image Processing (ICIP)*, 2017. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8296632)][[Postprint](https://people.engr.ncsu.edu/cwong9/docs/hr_icip2017.pdf)][[Slides](https://sigport.org/documents/fitness-heart-rate-measurement-using-face-videos)]
+1. M. Chen, **Q. Zhu**, M. Wu and Q. Wang, "Modulation Model of the Photoplethysmography Signal for Vital Sign Extraction", *IEEE Journal of Biomedical and Health Informatics*, early access, Aug. 2020. [[PDF](https://www.researchgate.net/publication/343411623_Modulation_Model_of_the_Photoplethysmography_Signal_for_Vital_Sign_Extraction)]
 
 Demo videos
 ---------

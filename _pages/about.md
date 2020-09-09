@@ -32,9 +32,9 @@ Publication
 ------
 **Journals**
 1. A. Hajj-Ahmad, C.-W. Wong, . Gambino, **Q. Zhu**, M. Yu, and M. Wu, "Factors Affecting ENF Capture in Audio", *IEEE Transactions on Information Forensics and Security (TIFS)*, Vol. 14, No. 2, pp. 277-288, Feb. 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/document/8360518)]
-1. **Q. Zhu**, M. Chen, C.-W. Wong and M. Wu, "Adaptive Multi-Trace Carving for Robust Frequency Tracking in Forensic Applications", under 2nd round of review. [[arXiv](https://arxiv.org/abs/2005.06686)]
+1. **Q. Zhu**, M. Chen, C.-W. Wong and M. Wu, "Adaptive Multi-Trace Carving for Robust Frequency Tracking in Forensic Applications", accepted by *IEEE Transactions on Information Forensics and Security (TIFS)*, to appear. [[arXiv](https://arxiv.org/abs/2005.06686)]
+1. M. Chen, **Q. Zhu**, M. Wu and Q. Wang, "Modulation Model of the Photoplethysmography Signal for Vital Sign Extraction", *IEEE Journal of Biomedical and Health Informatics*, early access, Aug. 2020. [[PDF](https://www.researchgate.net/publication/343411623_Modulation_Model_of_the_Photoplethysmography_Signal_for_Vital_Sign_Extraction)]
 1. **Q. Zhu**, X. Tian, C.-W. Wong and M. Wu, "Learning Your Heart Actions From Pulse: ECG Waveform Reconstruction From PPG", under revision. [[bioRxiv](https://www.biorxiv.org/content/10.1101/815258v1)]
-1. M. Chen, **Q. Zhu**, M. Wu and Q. Wang, "Amplitude and Frequency Modulation for Vital Signs Extraction From Photoplethysmography Signal", under revision.
 1. **Q. Zhu**, C.-W. Wong and M. Wu, "Robust Fitness Pulse Rate and Pulse Rate Varibility Measurement From Face Videos", under preparation for journal submission.
 1. S. Han, **Q. Zhu**, J. Li, and Y. Zhou, "Generalized Rough Set-based Information Filling Technique for Failure Analysis of Thruster Experimental Data", *Chinese Journal of Aeronautics*, Vol. 26, No. 5, pp. 1182-1194, Oct. 2017. [[Science Direct](https://www.sciencedirect.com/science/article/pii/S1000936113000800)]
 1. J. Wu, Z. Mou, **Q. Zhu**, J. Li, and Y. Zhou, "Decoupled Target Tracking with Bearing-only Measurements", Optical Engineering, Vol. 51, No. 12, pp. 126401, Dec. 2012. [[SPIE.](https://www.spiedigitallibrary.org/journals/Optical-Engineering/volume-51/issue-12/126401/Decoupled-target-tracking-with-bearings-only-measurements/10.1117/1.OE.51.12.126401.short?SSO=1)]
